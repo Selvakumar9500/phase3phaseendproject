@@ -1,0 +1,18 @@
+{
+  "id": 887,
+  "category": {
+   "id": 0,
+   "name": "string"
+  },
+  "name": "goat",
+  "photoUrls": [
+   "string"
+  ],
+  "tags": [
+   {
+   "id": 0,
+   "name": "string"
+   }
+  ],
+  "status": "available_Dev"
+  }
